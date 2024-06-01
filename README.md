@@ -1,10 +1,10 @@
 - **👋 _Hi, I’m @lihkil_**
-- 👀 I’m interested in ...  coding and networking
-- 🌱 I’m currently learning ... c++
-- 💞️ I’m looking to collaborate on ... networking and coding-related gu
+- 👀 I’m interested in ...  coding and networking :shipit:
+- <sup>🌱 I’m currently learning ...</sup> c++
+- `#(💞️ I’m looking to collaborate on ... networking and coding-related gu)`:+1:
 - 📫 How to reach me ... <sub>Likhilbaiju01@gmail.com</sub> through email
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... am a system administrator too
+- ⚡ [!Fun fact]: ... am a system administrator too
 - <picture>
 <source media="(prefers-colour-scheme:light)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
 <source media="(prefers-colour-scheme: dark)" scrset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
