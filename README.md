@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lihkil
+- **👋 _Hi, I’m @lihkil_**
 - 👀 I’m interested in ...  coding and networking
 - 🌱 I’m currently learning ... c++
 - 💞️ I’m looking to collaborate on ... networking and coding-related guys
-- 📫 How to reach me ... 8592825866
+- 📫 How to reach me ... <sub>Likhilbaiju01@gmail.com</sub> through email
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... am a system administrator too
 
